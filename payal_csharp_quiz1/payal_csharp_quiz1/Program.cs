@@ -20,7 +20,7 @@ namespace payal_csharp_quiz1
             listEmployees.Add(new Employee(1, "John", 100000));
             listEmployees.Add(new Employee(2, "Rahul", 300000));
             listEmployees.Add(new Employee(3, "Paul", 200000));
-            listEmployees.Add(new Employee(4, "Mira", 100000));
+            listEmployees.Add(new Employee(4, "Mira", 400000));
             listEmployees.Add(new Employee(5, "Karan", 500000));
 
             listEmployees.ForEach(emp => emp.ToString());
