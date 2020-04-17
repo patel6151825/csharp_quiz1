@@ -1,0 +1,4 @@
+
+ANSWER
+
+1) Properties of anonymous types will be read-only properties so you cannot change their values.
