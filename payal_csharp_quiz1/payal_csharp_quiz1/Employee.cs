@@ -39,7 +39,7 @@ namespace payal_csharp_quiz1
         public void getLowest(List<Employee> listEmployees)
         {
             double lowest = listEmployees[0].salary;
-            string empName = "";
+            string empName = listEmployees[0].name;
             foreach (var emp in listEmployees)
             {
                 if (emp.salary < lowest)
