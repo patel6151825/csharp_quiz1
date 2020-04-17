@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\satish\\source\\repos\\payal_csharp_quiz1\\payal_csharp_quiz1\\payal_csharp_quiz1.csproj": {}
+    "C:\\Users\\satish\\source\\repos\\csharp_quiz1\\payal_csharp_quiz1\\payal_csharp_quiz1\\payal_csharp_quiz1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\satish\\source\\repos\\payal_csharp_quiz1\\payal_csharp_quiz1\\payal_csharp_quiz1.csproj": {
+    "C:\\Users\\satish\\source\\repos\\csharp_quiz1\\payal_csharp_quiz1\\payal_csharp_quiz1\\payal_csharp_quiz1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\satish\\source\\repos\\payal_csharp_quiz1\\payal_csharp_quiz1\\payal_csharp_quiz1.csproj",
+        "projectUniqueName": "C:\\Users\\satish\\source\\repos\\csharp_quiz1\\payal_csharp_quiz1\\payal_csharp_quiz1\\payal_csharp_quiz1.csproj",
         "projectName": "payal_csharp_quiz1",
-        "projectPath": "C:\\Users\\satish\\source\\repos\\payal_csharp_quiz1\\payal_csharp_quiz1\\payal_csharp_quiz1.csproj",
+        "projectPath": "C:\\Users\\satish\\source\\repos\\csharp_quiz1\\payal_csharp_quiz1\\payal_csharp_quiz1\\payal_csharp_quiz1.csproj",
         "packagesPath": "C:\\Users\\satish\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\satish\\source\\repos\\payal_csharp_quiz1\\payal_csharp_quiz1\\obj\\",
+        "outputPath": "C:\\Users\\satish\\source\\repos\\csharp_quiz1\\payal_csharp_quiz1\\payal_csharp_quiz1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\satish\\AppData\\Roaming\\NuGet\\NuGet.Config",

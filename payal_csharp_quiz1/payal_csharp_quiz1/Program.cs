@@ -18,8 +18,8 @@ namespace payal_csharp_quiz1
             //Task 2
             List<Employee> listEmployees = new List<Employee>();
             listEmployees.Add(new Employee(1, "John", 100000));
-            listEmployees.Add(new Employee(1, "Rahul", 300000));
-            listEmployees.Add(new Employee(1, "Paul", 200000));
+            listEmployees.Add(new Employee(2, "Rahul", 300000));
+            listEmployees.Add(new Employee(3, "Paul", 200000));
 
             listEmployees.ForEach(emp => emp.ToString());
 
@@ -40,10 +40,10 @@ namespace payal_csharp_quiz1
             //Task 4
             Hashtable myHashtable = new Hashtable();
             listEmployees.ForEach(emp => myHashtable.Add(emp.id,emp.name));
-            
-            foreach (var key in myHashtable.Keys)
+
+            foreach (DictionaryEntry item in myHashtable)
             {
-                Console.WriteLine($"{key} and the value : {myHashtable[key]}");
+                Console.WriteLine("key:{0} , value:{1}", item.Key, item.Value);
             }
 
             //Task 5
@@ -54,7 +54,7 @@ namespace payal_csharp_quiz1
 
             bool result = i.IsDivisibleBy3();
 
-            if (result)
+            if (result==true)
             {
                 Console.WriteLine($"{i} is divisible by 3");
             }

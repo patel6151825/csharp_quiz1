@@ -8,7 +8,7 @@ namespace Extension
     {
         public static bool IsDivisibleBy3(this int i)
         {
-            if ((i / 3)==0)
+            if ((i % 3)==0)
             {
                 return true;
             }

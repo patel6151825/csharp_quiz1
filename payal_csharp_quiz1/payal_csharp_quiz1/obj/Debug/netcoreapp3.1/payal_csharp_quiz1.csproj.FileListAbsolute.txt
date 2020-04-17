@@ -10,3 +10,15 @@ C:\Users\satish\source\repos\payal_csharp_quiz1\payal_csharp_quiz1\obj\Debug\net
 C:\Users\satish\source\repos\payal_csharp_quiz1\payal_csharp_quiz1\obj\Debug\netcoreapp3.1\payal_csharp_quiz1.dll
 C:\Users\satish\source\repos\payal_csharp_quiz1\payal_csharp_quiz1\obj\Debug\netcoreapp3.1\payal_csharp_quiz1.pdb
 C:\Users\satish\source\repos\payal_csharp_quiz1\payal_csharp_quiz1\obj\Debug\netcoreapp3.1\payal_csharp_quiz1.genruntimeconfig.cache
+C:\Users\satish\source\repos\csharp_quiz1\payal_csharp_quiz1\payal_csharp_quiz1\bin\Debug\netcoreapp3.1\payal_csharp_quiz1.exe
+C:\Users\satish\source\repos\csharp_quiz1\payal_csharp_quiz1\payal_csharp_quiz1\bin\Debug\netcoreapp3.1\payal_csharp_quiz1.deps.json
+C:\Users\satish\source\repos\csharp_quiz1\payal_csharp_quiz1\payal_csharp_quiz1\bin\Debug\netcoreapp3.1\payal_csharp_quiz1.runtimeconfig.json
+C:\Users\satish\source\repos\csharp_quiz1\payal_csharp_quiz1\payal_csharp_quiz1\bin\Debug\netcoreapp3.1\payal_csharp_quiz1.runtimeconfig.dev.json
+C:\Users\satish\source\repos\csharp_quiz1\payal_csharp_quiz1\payal_csharp_quiz1\bin\Debug\netcoreapp3.1\payal_csharp_quiz1.dll
+C:\Users\satish\source\repos\csharp_quiz1\payal_csharp_quiz1\payal_csharp_quiz1\bin\Debug\netcoreapp3.1\payal_csharp_quiz1.pdb
+C:\Users\satish\source\repos\csharp_quiz1\payal_csharp_quiz1\payal_csharp_quiz1\obj\Debug\netcoreapp3.1\payal_csharp_quiz1.csprojAssemblyReference.cache
+C:\Users\satish\source\repos\csharp_quiz1\payal_csharp_quiz1\payal_csharp_quiz1\obj\Debug\netcoreapp3.1\payal_csharp_quiz1.AssemblyInfoInputs.cache
+C:\Users\satish\source\repos\csharp_quiz1\payal_csharp_quiz1\payal_csharp_quiz1\obj\Debug\netcoreapp3.1\payal_csharp_quiz1.AssemblyInfo.cs
+C:\Users\satish\source\repos\csharp_quiz1\payal_csharp_quiz1\payal_csharp_quiz1\obj\Debug\netcoreapp3.1\payal_csharp_quiz1.dll
+C:\Users\satish\source\repos\csharp_quiz1\payal_csharp_quiz1\payal_csharp_quiz1\obj\Debug\netcoreapp3.1\payal_csharp_quiz1.pdb
+C:\Users\satish\source\repos\csharp_quiz1\payal_csharp_quiz1\payal_csharp_quiz1\obj\Debug\netcoreapp3.1\payal_csharp_quiz1.genruntimeconfig.cache

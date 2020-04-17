@@ -11,10 +11,5 @@ namespace payal_csharp_quiz1
         {
             Console.WriteLine(value);
         }
-
-        public override string ToString()
-        {
-            return base.ToString();
-        }
     }
 }
